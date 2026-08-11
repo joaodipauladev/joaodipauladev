@@ -22,6 +22,7 @@ Frontend:
 
 Backend:
 - Node.js
+- .NET/C#
 - Express
 - Prisma
 - PostgreSQL
@@ -31,6 +32,7 @@ Tools:
 - GitHub
 - VS Code
 - Playwright
+- VITE
 
 ## 📫 Contact
 
