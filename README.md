@@ -5,16 +5,34 @@
 
 Full Stack Developer from Brazil 🇧🇷
 
-I build scalable web applications using TypeScript,
-React, Node.js and PostgreSQL.
+I'm passionate about building scalable web applications,
+automation solutions and SaaS products.
 
-Currently working on:
+## 🚀 Current Projects
 
-🚀 IntraLink — Corporate communication platform
-🚀 CodeLingo — Duolingo-inspired coding education platform
+- IntraLink — Corporate communication platform
+- CodeLingo — Gamified programming learning platform
 
-Passionate about:
-- Software Engineering
-- System Design
-- QA Automation
-- Clean Architecture
+## 🛠 Tech Stack
+
+Frontend:
+- React
+- TypeScript
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express
+- Prisma
+- PostgreSQL
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- Playwright
+
+## 📫 Contact
+
+LinkedIn: www.linkedin.com/in/joão-victor-d-1b5625132/
+Email: contato.joaovdipaula@gmail.com
