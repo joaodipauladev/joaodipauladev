@@ -1,5 +1,5 @@
 <p align="left">
-<img src= "https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,cs,dotnet,docker,azure" />
+<img src= "https://skillicons.dev/icons?i=java,js,ts,react,nodejs,python,cs,dotnet,docker,azure,aws" />
 </p>
 # 👋 Hey, I'm João Victor
 
