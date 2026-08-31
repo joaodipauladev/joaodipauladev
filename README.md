@@ -21,6 +21,7 @@ Frontend:
 - Tailwind CSS
 
 Backend:
+- Java
 - Node.js
 - .NET/C#
 - Express
@@ -31,6 +32,7 @@ Tools:
 - Git
 - GitHub
 - VS Code
+- IntelliJ IDEA
 - Playwright
 - VITE
 
